@@ -13,7 +13,7 @@ library(tidytext) #creating the corpus
 #library(SnowballC)
 #data("stop_words") #data for stop words
 setwd("C:/Elias/1 Serious/Academia/University of Pittsburgh/1 Dissertation/Data/ElectionsTweets")
-bearer_token <- "AAAAAAAAAAAAAAAAAAAAAKzNPAEAAAAA4i2sMirmlXNPBryoOr6SpMFhY9Q%3DyVCxU4eK9NuRwZQeRTb5oFlFoAGg9Xrh4kKwQqPvlBmOOBmF5s"
+bearer_token <- "XXXX" #this is a  password, not shated
 
 
 #Elections:
